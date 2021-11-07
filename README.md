@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Number of visits to my profile
+Number of visits to my profile: 
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
 
 ![](https://hit.yhype.me/github/profile?user_id=76072249)
